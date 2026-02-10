@@ -2,7 +2,7 @@
 
 ### Full-Stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepansh005&label=Profile views&color=0e75b6&style=flat" alt="Deepansh005" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=Deepansh005&label=Profile%20Views&color=0e75b6&style=flat)
 
 - 🔭 I'm currently working on **a Mern Stack/AI projects**
 
