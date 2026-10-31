@@ -118,10 +118,30 @@ const deepansh = {
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/Deepansh005/regintel-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepansh005&repo=regintel-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" alt="project 1"/></a>
-<a href="https://github.com/Deepansh005/echolearn-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepansh005&repo=echolearn-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" alt="project 2"/></a>
-
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🛡️ RegIntel AI</h3>
+      <p>Yahan 1-2 line mein likho ki ye project kya problem solve karta hai.</p>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,py&theme=dark" alt="stack"/>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/Deepansh005/regintel-ai?style=for-the-badge&logo=github&color=7B2FF7&labelColor=0d1117" alt="stars"/>
+      <img src="https://img.shields.io/github/last-commit/Deepansh005/regintel-ai?style=for-the-badge&color=00A8CC&labelColor=0d1117" alt="last commit"/>
+      <br/><br/>
+      <a href="https://github.com/Deepansh005/regintel-ai"><img src="https://img.shields.io/badge/VIEW%20REPO-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="view repo"/></a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🎓 EchoLearn AI</h3>
+      <p>Yahan 1-2 line mein likho ki ye project kya problem solve karta hai.</p>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,py&theme=dark" alt="stack"/>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/Deepansh005/echolearn-ai?style=for-the-badge&logo=github&color=7B2FF7&labelColor=0d1117" alt="stars"/>
+      <img src="https://img.shields.io/github/last-commit/Deepansh005/echolearn-ai?style=for-the-badge&color=00A8CC&labelColor=0d1117" alt="last commit"/>
+      <br/><br/>
+      <a href="https://github.com/Deepansh005/echolearn-ai"><img src="https://img.shields.io/badge/VIEW%20REPO-FF00C8?style=for-the-badge&logo=github&logoColor=white" alt="view repo"/></a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
