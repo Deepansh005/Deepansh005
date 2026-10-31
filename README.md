@@ -72,10 +72,11 @@ const deepansh = {
 
 <br/>
 
-## 📈 Contribution Graph
+## 📈 Coding Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepansh005&bg_color=0d1117&color=00F5FF&line=7B2FF7&point=FF00C8&area=true&area_color=7B2FF7&hide_border=true&title_color=00F5FF" width="100%" alt="activity graph"/>
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" alt="productive time"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="most commit language"/>
 </div>
 
 <br/>
@@ -92,10 +93,10 @@ const deepansh = {
 
 <br/>
 
-## 🏆 Trophy Room
+## 🏆 Profile Summary
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Deepansh005&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="60%" alt="profile details"/>
 </div>
 
 <br/>
