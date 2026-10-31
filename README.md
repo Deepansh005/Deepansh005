@@ -1,102 +1,153 @@
-<!-- CYBERPUNK HUD BANNER -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Mainframe Banner" />
-</p>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<!-- DYNAMIC TERMINAL SCROLLER -->
-<p align="center">
-  <img src="https://demolab.com..." alt="Terminal Stream" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:00F5FF,50:7B2FF7,100:FF00C8&text=DEEPANSH%20SAXENA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Grinder%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
-<p align="center">
-  <img src="https://komarev.com" alt="Nodes Scanned" />
-</p>
+<a href="https://github.com/Deepansh005">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&height=50&lines=%3E+Booting+developer.exe+...;%3E+Building+scalable+full-stack+systems;%3E+Solving+DSA+problems+daily;%3E+Open+to+collaborate+%26+ship+cool+stuff+%F0%9F%9A%80" alt="typing animation" />
+</a>
 
----
+<br/>
 
-### 📡 Mainframe Diagnostics & Directives
-```x86asm
-┌────────────────────────────────────────────────────────┐
-│  SYSTEM LOG   : ACTIVE & COMPILING ⚡                   │
-│  DESIGNATION  : DEEPANSHU SAXENA // FULL-STACK ENGINE  │
-│  RGB SPECTRUM : 16.8 MILLION CORES ACTIVE 🔥           │
-└────────────────────────────────────────────────────────┘
+<img src="https://komarev.com/ghpvc/?username=Deepansh005&label=PROFILE%20VIEWS&color=7B2FF7&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/Deepansh005?style=for-the-badge&logo=github&color=00A8CC&labelColor=0d1117" alt="followers"/>
+<img src="https://img.shields.io/github/stars/Deepansh005?style=for-the-badge&logo=github&color=FF00C8&labelColor=0d1117" alt="stars"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== TERMINAL ===================== -->
+## 🖥️ `~/whoami`
+
+```js
+const deepansh = {
+  name:       "Deepansh Saxena",
+  role:       "Full Stack Developer",
+  focus:      ["MERN / Next.js", "Java + Spring Boot", "Data Structures & Algorithms"],
+  currently:  "Grinding Striver's A2Z DSA Sheet & building full-stack projects",
+  learning:   ["System Design", "Microservices", "Kafka & Event-driven systems"],
+  funFact:    "I debug with console.log and call it engineering 😎",
+  lookingFor: "Internships • Open-source • Collabs"
+};
 ```
 
-* 🔭 **Current Operations:** Engineering next-generation **MERN Stack & AI Nodes** (like `echolearn-ai`, `apna-mandi`).
-* 🌱 **Neural Learning Matrix:** Actively structuralizing **JAVA & React** subroutines.
-* ⚡ **Synergy & Collaboration:** Open to pairing up on open-source frameworks and advanced problem-solving missions.
-* 📬 **Secure Comms Pipeline:** Ping my secure server directly at **deepansh2428@gmail.com**
+<br/>
 
----
+<!-- ===================== TECH STACK ===================== -->
+## ⚡ Tech Arsenal
 
-### 🛠️ Core Weaponry & Tech Armament
+<div align="center">
 
-#### 🔋 Frontend Luminescence & Frameworks
-<p align="left">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="Vue.js" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="Tailwind" />
-  <img src="https://shields.io" alt="Bootstrap" />
-</p>
+**🎨 Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind,bootstrap&theme=dark" alt="frontend"/>
 
-#### ⚡ Backend Core & Database Mainframe
-<p align="left">
-  <img src="https://shields.io" alt="Node" />
-  <img src="https://shields.io" alt="Express" />
-  <img src="https://shields.io" alt="Nest" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Spring" />
-  <img src="https://shields.io" alt="Python" />
-</p>
+**🧠 Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,py&theme=dark" alt="backend"/>
 
-#### 💾 Storage Units & Data streams
-<p align="left">
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="SQL Server" />
-  <img src="https://shields.io" alt="Kafka" />
-  <img src="https://shields.io" alt="Firebase" />
-</p>
+**🗄️ Databases & Streams**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,kafka&theme=dark" alt="db"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
 
-#### ⚙️ Engineering Tools & Mechanics
-<p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Postman" />
-  <img src="https://shields.io" alt="Figma" />
-  <img src="https://shields.io" alt="Webpack" />
-</p>
+**🛠️ Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,webpack,vscode&theme=dark" alt="tools"/>
 
----
+</div>
 
-### 📊 Network Metrics & Holographic Statistics
+<br/>
 
-<p align="center">
-  <img src="https://vercel.app" alt="Mainframe Analytics" height="180px" />
-  <img src="https://vercel.app" alt="Language Frequencies" height="180px" />
-</p>
+<!-- ===================== STATS ===================== -->
+## 📊 Holographic Stats
 
-<p align="center">
-  <img src="https://demolab.com" alt="System Uptime Streak" />
-</p>
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepansh005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF00C8&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepansh005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&langs_count=8" alt="top langs"/>
 
-### 📶 Secure Handshake Node (Connect)
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com" target="_blank">
-    <img src="https://shields.io" alt="LeetCode" />
-  </a>
-  <a href="https://stackoverflow.com" target="_blank">
-    <img src="https://shields.io" alt="Stack Overflow" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-</p>
+<img src="https://streak-stats.demolab.com?user=Deepansh005&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=FF00C8&currStreakLabel=00F5FF" alt="streak"/>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepansh005&bg_color=0d1117&color=00F5FF&line=7B2FF7&point=FF00C8&area=true&area_color=7B2FF7&hide_border=true&title_color=00F5FF" width="100%" alt="activity graph"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepansh005/Deepansh005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepansh005/Deepansh005/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/Deepansh005/Deepansh005/output/github-contribution-grid-snake-dark.svg">
+</picture>
+</div>
+
+<br/>
+
+## 🏆 Trophy Room
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Deepansh005&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies"/>
+</div>
+
+<br/>
+
+<!-- ===================== CODING PROFILES ===================== -->
+## 🧩 Competitive Arena
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Deepansh_005/">
+  <img src="https://leetcard.jacoblin.cool/Deepansh_005?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Deepansh005/regintel-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepansh005&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" alt="project 1"/></a>
+<a href="https://github.com/Deepansh005/echolearn-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepansh005&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" alt="project 2"/></a>
+
+</div>
+
+<br/>
+
+<!-- ===================== CONNECT ===================== -->
+## 🔗 Initiate Handshake
+
+<div align="center">
+
+<a href="mailto:deepansh2428@gmail.com"><img src="https://img.shields.io/badge/Gmail-deepansh2428@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/deepanshu005/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://leetcode.com/u/Deepansh_005/"><img src="https://img.shields.io/badge/LeetCode-Deepansh__005-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
+<a href="https://www.instagram.com/deepansh.005/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│  "First, solve the problem. Then, write the  │
+│   code."                       — John Johnson │
+└──────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF00C8,50:7B2FF7,100:00F5FF&section=footer" width="100%" alt="footer"/>
+
+</div>
