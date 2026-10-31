@@ -1,22 +1,20 @@
-<!-- CYBERPUNK GLOW BANNER -->
+<!-- CYBERPUNK HUD BANNER -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Deepanshu Saxena's HUD Banner" />
+  <img src="https://vercel.app" width="100%" alt="Mainframe Banner" />
 </p>
 
-<!-- NEON TERMINAL TYPING EFFECT -->
+<!-- DYNAMIC TERMINAL SCROLLER -->
 <p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Terminal Stream" />
-  </a>
+  <img src="https://demolab.com..." alt="Terminal Stream" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com" alt="Network Nodes Scanned" />
+  <img src="https://komarev.com" alt="Nodes Scanned" />
 </p>
 
 ---
 
-### 📡 Quantum Diagnostics & Directives
+### 📡 Mainframe Diagnostics & Directives
 ```x86asm
 ┌────────────────────────────────────────────────────────┐
 │  SYSTEM LOG   : ACTIVE & COMPILING ⚡                   │
@@ -25,10 +23,10 @@
 └────────────────────────────────────────────────────────┘
 ```
 
-- 🔭 **Current Operations:** Engineering next-generation **MERN Stack & AI Nodes** (like `echolearn-ai`).
-- 🌱 **Neural Learning Matrix:** Actively structuralizing **JAVA & React** subroutines.
-- 👯 **Synergy & Collaboration:** Open to pairing up on open-source frameworks and advanced problem-solving missions.
-- 📬 **Secure Comms Pipeline:** Ping my secure server directly at **deepansh2428@gmail.com**
+* 🔭 **Current Operations:** Engineering next-generation **MERN Stack & AI Nodes** (like `echolearn-ai`, `apna-mandi`).
+* 🌱 **Neural Learning Matrix:** Actively structuralizing **JAVA & React** subroutines.
+* ⚡ **Synergy & Collaboration:** Open to pairing up on open-source frameworks and advanced problem-solving missions.
+* 📬 **Secure Comms Pipeline:** Ping my secure server directly at **deepansh2428@gmail.com**
 
 ---
 
@@ -36,39 +34,39 @@
 
 #### 🔋 Frontend Luminescence & Frameworks
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Next.js" />
+  <img src="https://shields.io" alt="Vue.js" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="Tailwind" />
+  <img src="https://shields.io" alt="Bootstrap" />
 </p>
 
 #### ⚡ Backend Core & Database Mainframe
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Node" />
+  <img src="https://shields.io" alt="Express" />
+  <img src="https://shields.io" alt="Nest" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Spring" />
+  <img src="https://shields.io" alt="Python" />
 </p>
 
 #### 💾 Storage Units & Data streams
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="SQL Server" />
+  <img src="https://shields.io" alt="Kafka" />
+  <img src="https://shields.io" alt="Firebase" />
 </p>
 
-#### 🎮 Dev Tools & Mechanics
+#### ⚙️ Engineering Tools & Mechanics
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Postman" />
+  <img src="https://shields.io" alt="Figma" />
+  <img src="https://shields.io" alt="Webpack" />
 </p>
 
 ---
@@ -76,28 +74,29 @@
 ### 📊 Network Metrics & Holographic Statistics
 
 <p align="center">
-  <img src="https://vercel.app" alt="Cyberpunk Stats" height="180px" />
-  <img src="https://vercel.app" alt="Neon Languages" height="180px" />
+  <img src="https://vercel.app" alt="Mainframe Analytics" height="180px" />
+  <img src="https://vercel.app" alt="Language Frequencies" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://demolab.com" alt="Overclocking Streak" />
-</p>
-
----
-
-### 👾 Quantum Grid Matrix (Git Activity)
-<p align="center">
-  <!-- Interactive custom animated engine grid -->
-  <img src="https://githubusercontent.com" alt="Cyber Snake Matrix Grid" />
+  <img src="https://demolab.com" alt="System Uptime Streak" />
 </p>
 
 ---
 
 ### 📶 Secure Handshake Node (Connect)
+
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com"><img src="https://shields.io" alt="LeetCode" /></a>
-  <a href="https://stackoverflow.com"><img src="https://shields.io" alt="StackOverflow" /></a>
-  <a href="https://instagram.com"><img src="https://shields.io" alt="Instagram" /></a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://shields.io" alt="LeetCode" />
+  </a>
+  <a href="https://stackoverflow.com" target="_blank">
+    <img src="https://shields.io" alt="Stack Overflow" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
 </p>
