@@ -119,8 +119,8 @@ const deepansh = {
 
 <div align="center">
 
-<a href="https://github.com/Deepansh005/regintel-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepansh005&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" alt="project 1"/></a>
-<a href="https://github.com/Deepansh005/echolearn-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepansh005&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" alt="project 2"/></a>
+<a href="https://github.com/Deepansh005/regintel-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepansh005&repo=regintel-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" alt="project 1"/></a>
+<a href="https://github.com/Deepansh005/echolearn-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepansh005&repo=echolearn-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" alt="project 2"/></a>
 
 </div>
 
