@@ -66,7 +66,7 @@ const deepansh = {
 
 <br/>
 
-<img src="github-readme-stats-fast.vercel.app?user=Deepansh005&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=FF00C8&currStreakLabel=00F5FF" alt="streak"/>
+<img src="https://vercel.app" alt="streak"/>
 
 </div>
 
