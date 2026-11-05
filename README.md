@@ -61,8 +61,8 @@ const deepansh = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepansh005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF00C8&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepansh005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&langs_count=8" alt="top langs"/>
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Deepansh005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF00C8&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Deepansh005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&langs_count=8" alt="top langs"/>
 
 <br/>
 
