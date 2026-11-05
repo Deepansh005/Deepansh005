@@ -66,7 +66,7 @@ const deepansh = {
 
 <br/>
 
-<img src="https://vercel.app" alt="streak"/>
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
